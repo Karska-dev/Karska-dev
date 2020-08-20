@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a Software Engineer passionate about creating web-applications.
+I love writing code, especially in ✨JavaScript✨.
+
+I'm a Open Source contibutor, Hacktoberfest partisipant.
+Finished 2 rounds of [#100DaysOfCode](https://github.com/Karska-dev/100-days-of-code).
+Continuously learning new technologies and improve my JS and Python skills.
+
+🔭  I’m currently working on my [Portfolio](https://https://github.com/Karska-dev/karska-dev.github.io)
+
+📫  How to reach me: [linkedIn](https://www.linkedin.com/in/karska-dev/), [twitter](https://twitter.com/karska_dev)
 <!--
 **Karska-dev/Karska-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
