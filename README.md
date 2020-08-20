@@ -3,7 +3,7 @@
 I'm a Software Engineer passionate about creating web-applications.
 I love writing code, especially in ✨JavaScript✨.
 
-I'm a Open Source contibutor, Hacktoberfest partisipant.
+I'm an Open Source contributor, Hacktoberfest participant.
 Finished 2 rounds of [#100DaysOfCode](https://github.com/Karska-dev/100-days-of-code).
 Continuously learning new technologies and improve my JS and Python skills.
 
