@@ -7,7 +7,7 @@ I'm an Open Source contributor, Hacktoberfest participant.
 Finished 2 rounds of [#100DaysOfCode](https://github.com/Karska-dev/100-days-of-code).
 Continuously learning new technologies and improve my JS and Python skills.
 
-🔭  I’m currently working on my [Portfolio](/blog)
+🔭  I’m currently working on my [Portfolio](https://github.com/Karska-dev/blog)
 
 📫  How to reach me: [linkedIn](https://www.linkedin.com/in/karska-dev/), [twitter](https://twitter.com/karska_dev)
 <!--
