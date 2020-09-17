@@ -7,7 +7,7 @@ I'm an Open Source contributor, Hacktoberfest participant.
 Finished 2 rounds of [#100DaysOfCode](https://github.com/Karska-dev/100-days-of-code).
 Continuously learning new technologies and improve my JS and Python skills.
 
-🔭  I’m currently working on my full stack app.  
+🔭  I’m currently working on my full stack app - blog app.  
     Stack is **MERN** - MongoDB, Express.js, React.js, Node.js    
     [Blog Repo](https://github.com/Karska-dev/blog) | [Blog Live](https://karska-blog.netlify.app/)
 
