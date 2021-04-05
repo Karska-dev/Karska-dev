@@ -8,7 +8,7 @@ I'm also an Open Source contributor, Hacktoberfest participant(2019 and 2020).
 Finished 2 rounds of [#100DaysOfCode](https://github.com/Karska-dev/100-days-of-code).
 Continuously learning new technologies and improve my JS, C# and Python skills.
 
-🔭 I’m currently busy with my apprenticeship program and working on creating new feature for Azure Core project in Microsoft.
+🔭 I’m currently busy with my apprenticeship program and working on creating a new feature for a project inside the Azure Core in Microsoft.
 
 🌱 I’m currently learning C# and C++
 
