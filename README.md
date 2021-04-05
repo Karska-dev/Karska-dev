@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-I'm a Software Engineer passionate about creating web-applications.
-I love writing code, especially in ✨JavaScript✨.
+I'm a Software Engineer passionate about creating great software.
+I love writing code, especially in ✨JavaScript and C#✨.
 
-I'm an Open Source contributor, Hacktoberfest participant(2019 and 2020).
+I'm a LEAPer - person who has been selected to be a part of Microsoft Leap Apprenticeship Program.
+I'm also an Open Source contributor, Hacktoberfest participant(2019 and 2020).
 Finished 2 rounds of [#100DaysOfCode](https://github.com/Karska-dev/100-days-of-code).
-Continuously learning new technologies and improve my JS and Python skills.
+Continuously learning new technologies and improve my JS, C# and Python skills.
 
-🔭  I’m currently working on my full stack app - blog app.  
-    Stack is **MERN** - MongoDB, Express.js, React.js, Node.js    
-    [Blog Repo](https://github.com/Karska-dev/blog) | [Blog Live](https://karska-blog.netlify.app/)
+🔭 I’m currently busy with my apprenticeship program and working on creating new feature for Azure Core project in Microsoft.
+
+🌱 I’m currently learning C# and C++
 
 📫  How to reach me: [linkedIn](https://www.linkedin.com/in/karska-dev/), [twitter](https://twitter.com/karska_dev)
 <!--
